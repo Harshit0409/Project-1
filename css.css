@@ -1,0 +1,11 @@
+h3{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#divHead{
+    background-color: burlywood;
+    outline: black;
+    outline-width: 1ex;
+}
